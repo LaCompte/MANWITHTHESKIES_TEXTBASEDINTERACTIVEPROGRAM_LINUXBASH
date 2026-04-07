@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="console-application">
+  <id>com.lacompte.manwiththeskies</id>
+
+  <name>Man with the Skies</name>
+  <summary>An interactive text-based narrative on Linux</summary>
+
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0-only</project_license>
+
+  <description>
+    <p>
+      Man with the Skies is an original literary work written by
+      Shehroze Ameen, presented as an interactive terminal-based
+      reading experience on Linux. The reader navigates a non-linear
+      journal across 91 pages, encountering characters, choices, and
+      perspectives that reveal themselves gradually. Built entirely in
+      Bash shell script under the La Compte imprint. Open source
+      infrastructure, original content.
+    </p>
+  </description>
+
+  <icon type="stock">utilities-terminal</icon>
+
+  <categories>
+    <category>Education</category>
+    <category>Literature</category>
+  </categories>
+
+  <url type="homepage">https://github.com/LaCompte</url>
+
+  <releases>
+    <release version="1.0.0" date="2026-04-05">
+      <description>
+        <p>Initial release of Man with the Skies.</p>
+      </description>
+    </release>
+  </releases>
+
+  <provides>
+    <binary>main_menu.sh</binary>
+  </provides>
+</component>
