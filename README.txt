@@ -1,4 +1,4 @@
-![Man with the Skies](package/MAN WITH THE SKIES 2.jpg)
+![Man with the Skies](MAN WITH THE SKIES 2.jpg)
 
 Man with the Skies
 A project by La Compte.
