@@ -93,7 +93,7 @@ Credits
 
 Writer: Shehroze Ameen
 Project Director: Shehroze Ameen
-Project Assistant: Claude Pro Sonner 4.6
+Project Assistant: Claude Pro Sonnet 4.6
 Operating System Framework: Linux Zorin OS Core 17.3
 Project Editor: Shehroze Ameen
 Project Producer: Shehroze Ameen 
