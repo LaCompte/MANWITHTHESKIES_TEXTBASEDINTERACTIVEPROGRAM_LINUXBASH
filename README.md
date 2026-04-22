@@ -85,7 +85,7 @@ Ensured that all files actually use the XX format, so 01 till 92, with 88 missin
 Tools utilized for development of project
 
 Linux Bash Scripting knowledge
-Claude Pro Sonner 4.6
+Claude Pro Sonnet 4.6
 Gedit 41.0
 GNOME Terminal Version 3.44.0 for GNOME 42 Using VTE version 0.68.0 +BIDI +GNUTLS +ICU +SYSTEMD
 
